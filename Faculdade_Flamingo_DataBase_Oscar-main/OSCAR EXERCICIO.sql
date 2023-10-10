@@ -115,11 +115,11 @@ RESPOSTA:
 
     
 -- 16- Agora vamos falar da sua vida. Me diga o nome de uma pessoa que você admira e o que ela fez na sua vida. Agora me diz: Quê prêmio essa pessoa merece? 
--- meu pai e minha mãe que me deram todo apoio confiança em todos momentos que foi preciso e cada passo dado.
-INSERT INTO movies (year_film, year_ceremony, ceremony, category, `name`, film, winner) VALUES ('2022', '2023', '94', 'BEST DAD', 'Paulo Rodrigues da Silva', 'O Pai Do Ano', '1');
-INSERT INTO movies (year_film, year_ceremony, ceremony, category, `name`, film, winner) VALUES ('2022', '2023', '94', 'MOTHER OF THE YEAR', 'Rozinete Maria do Nascimento', 'A Mãe do Ano', '1');
+-- minha mãe e meu pai que sempre me apoiarão em todos os momento que foi preciso e cada conquista juntos.
+INSERT INTO movies (year_film, year_ceremony, ceremony, category, `name`, film, winner) VALUES ('2022', '2023', '94', 'BEST DAD', 'Aguinaldo Batista dos Santos', 'O Pai Do Ano', '1');
+INSERT INTO movies (year_film, year_ceremony, ceremony, category, `name`, film, winner) VALUES ('2022', '2023', '94', 'MOTHER OF THE YEAR', 'Freire Cristina de Oliveira Leandro', 'A Mãe do Ano', '1');
 
 RESPOSTA: 
-10397	2022	2023	94	BEST DAD	Paulo Rodrigues da Silva	O Pai Do Ano	1
-10398	2022	2023	94	MOTHER OF THE YEAR	Rozinete Maria do Nascimento	A Mãe do Ano	1
+10397	2022	2023	94	BEST DAD	Aguinaldo Batista dos Santos	O Pai Do Ano	1
+10398	2022	2023	94	MOTHER OF THE YEAR	Freire Cristina de Oliveira Leandro	A Mãe do Ano	1
 
